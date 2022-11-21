@@ -1,0 +1,8 @@
+forEach: BoundedContext
+fileName: org.eclipse.m2e.core.prefs
+path: {{name}}/.settings
+---
+activeProfiles=
+eclipse.preferences.version=1
+resolveWorkspaceProjects=true
+version=1

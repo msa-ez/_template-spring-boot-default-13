@@ -1,0 +1,6 @@
+forEach: BoundedContext
+fileName: org.eclipse.jdt.apt.core.prefs
+path: {{name}}/.settings
+---
+eclipse.preferences.version=1
+org.eclipse.jdt.apt.aptEnabled=false

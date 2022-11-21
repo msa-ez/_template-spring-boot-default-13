@@ -1,0 +1,7 @@
+forEach: BoundedContext
+fileName: org.eclipse.core.resources.prefs
+path: {{name}}/.settings
+---
+eclipse.preferences.version=1
+encoding//src/main/resources=UTF-8
+encoding/<project>=UTF-8
